@@ -1,2 +1,2 @@
 # InteractiveArtCode
-My amazing code from Creative Code Class :-)
+My terrible code from Creative Code Class :-)
